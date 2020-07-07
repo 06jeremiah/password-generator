@@ -1,2 +1,1 @@
-# password-generator
-JavaScript Practice
+
